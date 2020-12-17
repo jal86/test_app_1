@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\controllers",
+    "\\app\\views",
+    "\\app\\views\\pages",
+    "\\config"
+  ],
+  "SelectedNode": "\\app\\views\\pages\\home.html.erb",
+  "PreviewInSolutionExplorer": false
+}
