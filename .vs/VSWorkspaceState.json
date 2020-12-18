@@ -2,11 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\app",
+    "\\app\\assets\\images",
     "\\app\\controllers",
     "\\app\\views",
     "\\app\\views\\pages",
-    "\\config"
+    "\\config",
+    "\\public",
+    "\\public\\images"
   ],
-  "SelectedNode": "\\app\\views\\pages\\home.html.erb",
+  "SelectedNode": "\\app\\views\\pages\\about.html.erb",
   "PreviewInSolutionExplorer": false
 }
